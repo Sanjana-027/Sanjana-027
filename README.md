@@ -9,14 +9,6 @@
 
 - 📫 How to reach me **sanjanasinghs027@gmail.com**
 
--
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://www.linkedin.com/in/sanjana-singh-086a31211/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" </a>
-<a href="https://www.instagram.com/sanjana_singh027/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" 
-
-</p>
 
 
 
