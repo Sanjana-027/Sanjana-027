@@ -81,7 +81,6 @@
 
 
 
-
-⭐️ From **Sanjana Singh** ([@Sanjana-027](https://github.com/Sanjana-027))
+From **Sanjana Singh** ([@Sanjana-027](https://github.com/Sanjana-027))
 
 
