@@ -8,7 +8,7 @@
       <img align="center" alt="Sanjana @Mail" width="22px" src="handles/gmail.svg" />
     </a>
     
-    <a href="https://www.instagram.com/Sanjana_Singh027/">
+    <a href="https://www.instagram.com/Sanjana_Singh027_">
       <img align="center" alt="Sanjana @Instagram" width="22px" src="handles/instagram.svg" />
     </a>
   </p>
