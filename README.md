@@ -34,6 +34,30 @@
   <i>I believe in <b><i>POWER OF COMMUNITY</i></b> <img src="gif/Handshake.gif" width="70px">
 </p>
  <br />
+  
+  
+  &nbsp;***Talking about Personal Stuffs:***<br/>
+🎓 B.Tech CSE'24 from ITER, Bhubaneswar<br/>
+👨‍💻 A budding web developer<br/>
+🎯 Open source enthusiast<br/>
+
+
+<hr>
+<p align="center">
+<i><b>Languages Currently Learning:</b></i> 
+  <br><br>
+  <img align="center" src="languages/java.svg" width="43px" />&nbsp;
+  <img align="center" src="languages/html5.svg" width="40px" />&nbsp;
+  <img align="center" src="languages/css3.svg" width="40px" />&nbsp;
+  <img align="center" src="languages/javascript.svg" width="40px" />&nbsp;
+  <img align="center" src="languages/jquery.svg" width="40px" />&nbsp;
+  <img align="center" src="languages/bootstrap.svg" width="40px" />&nbsp;
+  <img align="center" src="languages/mysql.svg" width="45px" />&nbsp;
+  <img align="center" src="languages/RegEx.png" width="40px" />&nbsp;
+  
+</p>
+
+<hr>
 
 
 
