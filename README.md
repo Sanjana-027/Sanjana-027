@@ -11,7 +11,7 @@
       <img align="center" alt="Sanjana @Instagram" width="22px" src="handles/instagram.svg" />
     </a>
     <a href="https://www.hackerrank.com/sanjana_singh_">
-      <img align="center" alt="Abhijeet @Hackerrank" width="22px" src="handles/hackerrank.svg" />
+      <img align="center" alt="Sanjana @Hackerrank" width="22px" src="handles/hackerrank.svg" />
     </a>
     
   </p>
