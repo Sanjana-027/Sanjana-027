@@ -72,6 +72,12 @@
 
 <hr>
 
+<p align="center"> 
+  <i><b>Profile Visitor Count...</b></i><br><br>
+  <img src="https://profile-counter.glitch.me/Sanjana-027/count.svg" /><br>
+  <img src="gif/hello.gif" height="400">
+  
+</p>
 
 
 
