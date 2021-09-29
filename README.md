@@ -51,10 +51,12 @@
   <img align="center" src="languages/java.svg" width="43px" />&nbsp;
   <img align="center" src="languages/html5.svg" width="40px" />&nbsp;
   <img align="center" src="languages/css3.svg" width="40px" />&nbsp;
+  <img align="center" src="languages/bootstrap.svg" width="40px" />&nbsp;
   <img align="center" src="languages/javascript.svg" width="40px" />&nbsp;
   <img align="center" src="languages/jquery.svg" width="40px" />&nbsp;
-  <img align="center" src="languages/bootstrap.svg" width="40px" />&nbsp;
+  <img align="center" src="languages/angular.svg" width="45px" />&nbsp;
   <img align="center" src="languages/mysql.svg" width="45px" />&nbsp;
+   
   
   
 </p>
