@@ -79,7 +79,7 @@
   <i><b>Profile Visitor Count...</b></i><br><br>
   <img src="https://profile-counter.glitch.me/Sanjana-027/count.svg" /><br>
   <img src="gif/hello.gif" height="400">
-  <script src="https://gist.github.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471.js"></script>
+
 </p>
 
 
