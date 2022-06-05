@@ -1,4 +1,4 @@
-<h1 align="center">Hello, &ltworld<img src="gif/Earth.gif" width="24px">/> <img src="gif/Hi.gif" width="30px">
+<h1 align="center">Hello, &ltworld<img src="gif/Earth.gif" width="24">/> <img src="gif/Hi.gif" width="30">
   
 <p align = "center">
       <a href="https://www.linkedin.com/in/sanjana-singh-086a31211">
