@@ -10,6 +10,9 @@
     <a href="https://www.instagram.com/Sanjana_Singh027/">
       <img align="center" alt="Sanjana @Instagram" width="22" src="handles/instagram.svg" />
     </a>
+    <a href="https://leetcode.com/sanjanasingh02710/">
+      <img align="center" alt="Sanjana @LeetCode" width="22" src="handles/leetcode.svg" />
+    </a>
     <a href="https://www.hackerrank.com/sanjanasingh0271?hr_r=1">
       <img align="center" alt="Sanjana @Hackerrank" width="22" src="handles/hackerrank.svg" />
     </a>
