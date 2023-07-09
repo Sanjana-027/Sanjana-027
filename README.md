@@ -79,7 +79,7 @@
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br><br>
   <img src="https://profile-counter.glitch.me/Sanjana-027/count.svg" /><br>
-  <img src="https://miro.medium.com/max/1838/1*ZcejW5HfNRRFUPC5dq4HYg.gif" height="400">
+  <img src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif" height="400">
 
 </p>
 
