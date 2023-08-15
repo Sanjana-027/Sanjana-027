@@ -7,7 +7,7 @@
       <a href="mailto:sanjanasingh02710@gmail.com">
       <img align="center" alt="Sanjana @Mail" width="22" src="handles/gmail.svg" />
     </a>
-    <a href="https://www.instagram.com/Sanjana_Singh027/">
+    <a href="https://www.instagram.com/_thesanjana_/">
       <img align="center" alt="Sanjana @Instagram" width="22" src="handles/instagram.svg" />
     </a>
     <a href="https://www.hackerrank.com/sanjanasingh0271?hr_r=1">
